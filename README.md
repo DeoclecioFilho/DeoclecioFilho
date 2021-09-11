@@ -1,8 +1,8 @@
 ### Muito prazer! Deoclécio Filho 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=tokyonight)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeoclecioFilho&hide=javascript&theme=tokyonight)](https://github.com/DeoclecioFilho/github-readme-stats)
 
 ## Linguagens
 
