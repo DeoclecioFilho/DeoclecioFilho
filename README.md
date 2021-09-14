@@ -1,8 +1,11 @@
 ### Muito prazer! Deoclécio Filho  👋
+:computer:
+:house_with_garden:
+## E-mail
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeoclecioFilho&hide=javascript&theme=tokyonight)](https://github.com/DeoclecioFilho/github-readme-stats)
+![Deoclécio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=tokyonight)
+
 
 
 ## Linguagens
@@ -10,6 +13,30 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## IDEs
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## Frameworks
+![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+
+## Database
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Office
+
+![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whitehttps://github-readme-streak-stats.herokuapp.com/?user={username})
+
 
 <!--
 **DeoclecioFilho/DeoclecioFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +53,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMilhas&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMilhas&hide=javascript&theme=tokyonight)](https://github.com/DeoclecioFilho/github-readme-stats)
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) emailto:\\deoclecio.filho@estudante@ufjf.br
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeoclecioFilho&hide=javascript&theme=tokyonight)
 -->
