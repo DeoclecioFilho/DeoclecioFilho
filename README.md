@@ -1,9 +1,9 @@
-## Olá! Eu sou o Deoclécio Filho 👋
+## Olá! Eu sou o Deoclécio Filho 👋🏾
 <!--:computer:
 :house_with_garden:
 ## E-mail
 -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deoclecio_filho/)
 
 ![Deo GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=merko)
 
