@@ -5,9 +5,11 @@
 -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
-![Deo GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=dark)
+![Deo GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deocleciofilho)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deocleciofilho&layout=compact)](https://github.com/deo/github-readme-stats)
 
 ## Linguagens
 
@@ -23,6 +25,7 @@
 
 ## Frameworks
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deocleciofilho)](https://github.com/deo/github-readme-stats)
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 -->
