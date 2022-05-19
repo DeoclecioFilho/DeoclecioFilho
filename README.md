@@ -6,10 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deoclecio_filho/)
 
 ![Deo GitHub stats](https://github-readme-stats.vercel.app/api?username=DeoclecioFilho&show_icons=true&theme=merko)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deocleciofilho&layout=compact)](https://github.com/deo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deocleciofilho&layout=compact&theme=merko)](https://github.com/deo/github-readme-stats)
 
 ## Linguagens
 
